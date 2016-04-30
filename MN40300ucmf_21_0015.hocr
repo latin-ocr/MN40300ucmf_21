@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN40300ucmf_21_0015.png"; bbox 0 0 1390 3130; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 6 1506 694 1752">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 7 1506 694 1743">
+     <span class='ocr_line' id='line_1_1' title="bbox 7 1506 694 1638; baseline 0.006 -6"><span class='ocrx_word' id='word_1_1' title='bbox 7 1629 9 1632; x_wconf 78' lang='grc'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 22 1525 441 1638; x_wconf 82' lang='lat' dir='ltr'>anverofestum</span> <span class='ocrx_word' id='word_1_3' title='bbox 450 1530 594 1634; x_wconf 88' lang='lat' dir='ltr'>0b1n</span> <span class='ocrx_word' id='word_1_4' title='bbox 636 1506 694 1636; x_wconf 80' lang='grc' dir='ltr'> ,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 6 1664 597 1752; baseline -0.011 -8.529"><span class='ocrx_word' id='word_1_5' title='bbox 6 1664 344 1743; x_wconf 80' lang='lat' dir='ltr'>sPshatat</span> <span class='ocrx_word' id='word_1_6' title='bbox 328 1669 488 1752; x_wconf 78' lang='lat' dir='ltr'>certent?</span> <span class='ocrx_word' id='word_1_7' title='bbox 593 1691 597 1698; x_wconf 65' lang='lat'><strong><em>¹</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 1757 665 1926">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 1721 693 1926">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 1757 490 1858; baseline -0.001 -19"><span class='ocrx_word' id='word_1_8' title='bbox 0 1757 107 1858; x_wconf 69' lang='lat' dir='ltr'>mo</span> <span class='ocrx_word' id='word_1_9' title='bbox 129 1769 490 1848; x_wconf 77' lang='lat' dir='ltr'><em>ACADEMICA</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 71 1889 665 1926; baseline -0.003 -1"><span class='ocrx_word' id='word_1_10' title='bbox 71 1889 108 1926; x_wconf 66' lang='lat' dir='ltr'>ua</span> <span class='ocrx_word' id='word_1_11' title='bbox 233 1920 234 1923; x_wconf 5' lang='grc' dir='ltr'>γ</span> <span class='ocrx_word' id='word_1_12' title='bbox 560 1893 562 1896; x_wconf 61' lang='grc'><em>»</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 658 1905 665 1915; x_wconf 71' lang='lat'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 700 3130">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 700 3130">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 700 3130; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 700 3130; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 3 2959 642 3129">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 3 2959 642 3129">
+     <span class='ocr_line' id='line_1_6' title="bbox 22 2959 642 3042; baseline 0.006 -23"><span class='ocrx_word' id='word_1_15' title='bbox 22 2959 575 3042; x_wconf 68' lang='lat' dir='ltr'><strong>sAMunmsKREsssu</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 641 3001 642 3004; x_wconf 14' lang='grc' dir='ltr'><strong><em>κ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 3 3045 607 3129; baseline 0.002 -25"><span class='ocrx_word' id='word_1_17' title='bbox 3 3045 438 3129; x_wconf 57' lang='lat' dir='ltr'>Moctxmw</span> <span class='ocrx_word' id='word_1_18' title='bbox 596 3067 607 3075; x_wconf 34' lang='grc' dir='ltr'><strong>ν</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
